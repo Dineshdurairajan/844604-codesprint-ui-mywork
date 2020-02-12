@@ -1,0 +1,11 @@
+My associte id:
+844604
+other team members:
+844599,844569,844602,844562
+Team Lead:
+844569
+My Role In team:
+1. To create myhome page and contacUs page
+My development Files:
+1. myhome
+2.contactUs
